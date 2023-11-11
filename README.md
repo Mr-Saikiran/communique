@@ -52,3 +52,6 @@ satisfaction.
 ### High Level Architecture Diagram and Technical Stack
 
 ![Project](https://github.com/Mr-Saikiran/communique/assets/20139599/3af3cc23-d7c8-4550-9ef9-ce244c7a8e5a)
+
+
+#### Refer to Wiki page for Demo and FAQ
